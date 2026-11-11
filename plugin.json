@@ -1,0 +1,20 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "lawve",
+  "displayName": "Lawve",
+  "version": "1.0.0",
+  "description": "Use legal methods and guidance shared by practitioners directly in Antigravity. Discover legal agent skills and apply their authors' methodologies.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Find a skill on Lawve to review this legal argument from opposing counsel’s perspective, then identify weaknesses I should address.",
+    "Find and apply a skill on Lawve to help classify our recruitment AI tool under the EU AI Act and identify the obligations that follow.",
+    "Use a relevant skill on Lawve to make this legal letter clearer and more persuasive, while preserving the facts and my position."
+  ],
+  "author": {
+    "name": "Lawve AI",
+    "url": "https://lawve.ai"
+  },
+  "homepage": "https://lawve.ai/mcp",
+  "repository": "https://github.com/lawve-ai/antigravity-plugin",
+  "keywords": ["legal", "law", "skills", "document-review"]
+}
