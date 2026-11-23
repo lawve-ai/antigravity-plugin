@@ -2,7 +2,7 @@
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "lawve",
   "displayName": "Lawve",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use legal methods and guidance shared by practitioners directly in Antigravity. Discover legal agent skills and apply their authors' methodologies.",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
@@ -16,5 +16,6 @@
   },
   "homepage": "https://lawve.ai/mcp",
   "repository": "https://github.com/lawve-ai/antigravity-plugin",
+  "license": "Apache-2.0",
   "keywords": ["legal", "law", "skills", "document-review"]
 }

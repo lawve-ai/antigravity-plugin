@@ -65,3 +65,13 @@ Check that the plugin is enabled, its MCP server is connected, and your Lawve ac
 - [Contact Lawve](https://lawve.ai/about)
 - [Privacy policy](https://lawve.ai/privacy)
 - [Terms of use](https://lawve.ai/terms)
+
+## License
+
+Copyright 2026 Lawve AI.
+
+The plugin configuration and documentation in this repository are licensed under the [Apache License, Version 2.0](LICENSE). This license does not cover the hosted Lawve service, its server-side implementation, or any skills, documents, data, or other content accessed through the MCP server. Access to that service and content remains governed by the applicable [Lawve terms](https://lawve.ai/terms) and content-specific rights.
+
+### Branding
+
+The Lawve logo in `assets/logo.svg` is excluded from the Apache-2.0 license. All rights in Lawve names, logos, and trademarks are reserved. Lawve permits the unmodified bundled logo to be displayed solely to identify this integration in plugin listings, installation interfaces, and associated documentation. This permission does not authorize use suggesting endorsement of a modified plugin or another product or service.
